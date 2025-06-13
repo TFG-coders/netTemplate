@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 
 # VS Code settings
 .vscode/
+.vs/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
